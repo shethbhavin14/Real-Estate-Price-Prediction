@@ -1,5 +1,6 @@
 # Real-Estate-Price-Prediction
 
+Problem: Avoiding manually predictions of prices based on previous data with less accuracy.
 Goal: Prediction of prices with best possible accuracy.
 DataSet: UCI Machine Learning Repository.
 Total Columns: 14 (13 - Features, 1 - Label)
@@ -24,7 +25,7 @@ Steps:
   17. Saving the Model using joblib.
   18. Using the Model using joblib.
 
-The above steps are basically:
+Above steps are basically:
   1. Data Collection.
   2. Data Cleaning.
   3. Data Visualization.
